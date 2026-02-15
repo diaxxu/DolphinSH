@@ -64,7 +64,39 @@ the Firmware thats going to run is Inav its a lighweight program that is capable
 - mechanical aileron rolling on axis
 
 ---
+## FAQ
 
+**Q: Can this plane really hover like a drone?**  
+A: Yes, the quad lift motors provide vertical takeoff and stable hover.
+
+**Q: How difficult is the hover-to-cruise transition?**  
+A: It’s one of the trickiest parts. Proper PID tuning in iNav and smooth throttle control are key to avoiding instability.
+
+**Q: Can I use a different flight controller?**  
+A: Yes, any controller that supports VTOL and iNav or Ardupilot firmware should work (and have 8 signal pins), though wiring and mounting may need adjustments. 
+
+**Q: How long does it take to assemble?**  
+A: Printing and assembly can take several days (or weeks!), depending on your 3D printing setup and experience. 
+
+**Q: Is it possible to carry a camera payload?**  
+A: Small FPV cameras work fine. =)
+
+**Q: Can I scale the design larger or smaller?**  
+A: Yes, but aerodynamics and weight distribution change with scale. Lift motors may need different thrust ratings.
+
+**Q: How do you troubleshoot vibrations from the motor arms?**  
+A: good carbon fiber tube is enough check for any error in the manufacturing side
+
+**Q: How safe is the plane for beginners?**  
+A: It’s moderately advanced. Beginners should test hover flights in a wide, open area and start with short, low-altitude hops.
+
+**Q: What kind of maintenance is required?**  
+A: Regularly check motor screws, propeller condition, and servo linkages. easy access panels in the fuselage makes replacing parts faster.
+
+**Q: Can the firmware do autonomous flight?**  
+A: Yes, iNav can handle waypoint navigation and loitering, letting the plane fly itself once configured correctly.
+
+---
 
 
 ## COOL Pics
@@ -119,9 +151,13 @@ i already own 1 flightcontroller , 1 motor , 1 esc , 1 battery, 1 gps and a rece
 ### the TOTAL : 398.6$ 
 i tried to reduce cost as much but 3d printing literally is so expensive in morocco if i order from internationnal manufacturer i get hit with the tax and shipping cost i believe this is the cheapest choice that i have 
 
-
+### Credits
+A big thanks to hackclub and blueprint for making this possible without them all these project would been just a .step 
+also i want to thank the reviewers who are doing an incredible job, kudos !
+---
 ## Disclaimer
+<p align="center">
  <img src="Pics/logo1.png" alt="Plane Front" />
-
+</p>
 This project is experimental and intended for research and educational purposes.  
 All flight testing must be conducted in safe and controlled environments.
