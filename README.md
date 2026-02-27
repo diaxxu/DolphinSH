@@ -42,16 +42,58 @@ i made it to be or have :
 
 ## Technical Specifications 
 
-- **Wingspan:** 1300mm
-- **Wing Area:** 0.286 m²
-- **Wing loading:** 59 g/dm²
-- **estimated stall speed:** 26 km/h ( quite high but its understandable since you have 4 unused motor on your wing ) 
-- **Airfoil:** SS ( Semi-Symmetrical)
-- **Estimated Weight:** 2046.458g  
-- **Lift Motors:** 4 × A2212 
-- **Cruise Motor:** 1 × A2212
-- **Battery:** 3s 2200mah 30C ( estimated flight time: 17min )  
-- **Flight Controller:** DakeFpv f722 X6 ( any flightcontroller will work )
+- Wingspan: 1300 mm
+
+- Wing Area: 0.286 m²
+
+- Aspect Ratio: 5.9
+
+- Wing Loading: 7.0 kg/m² (≈ 68.5 N/m²)
+
+- Estimated Stall Speed: ~35 km/h (≈ 9.7 m/s)
+
+- Cruise Speed (est.): ~72 km/h (20 m/s)
+
+- Cruise Lift Coefficient (CL @ 20 m/s): ~0.28
+
+- Reynolds Number (@ cruise): ~300,000
+
+- Airfoil: Semi-Symmetrical (Cambered SS)
+
+- Estimated Weight: 2046 g (~20 N)
+
+- Fuselage Length: 888 mm
+
+- Max Fuselage Diameter: 273 mm
+
+## Propulsion
+
+- Lift Motors: 4 × A2212 1000KV
+
+- Max Thrust (VTOL total): ~3.2 kg
+
+- VTOL Thrust-to-Weight Ratio: ~1.6
+
+- Hover Endurance (est.): 4-6 minutes
+
+- Cruise Motor: 1 × A2212 1000KV
+
+- Cruise Power Consumption (est.): ~100 W
+
+- Estimated Cruise Endurance: ~14–15 minutes
+
+## Power System
+
+- Battery: 3S 2200mAh 30C (~24 Wh usable energy)
+
+- ESC: 30A (all motors)
+
+## Avionics
+
+- Flight Controller: DakeFPV F722 X6 (any F7 class FC compatible)
+- GPS : HGRLC M-100
+- ESC : generic 30amp
+- FPV : generic one off aliexpress
 
 ---
 
