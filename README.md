@@ -101,8 +101,11 @@ i made it to be or have :
 
 the Firmware thats going to run is Inav its a lightweight program that is capable of autonomously flying the UAV to pre-programmed waypoint or loiter ( always wanted to do this imagine letting go of the transmitter and the plane continue to fly itself thats literally magic ) 
 
-
-
+## Schematic ( wire diagram 
+![fc](Pics/fc.png)
+-
+![motor](Pics/motor.png)
+-
 ---
 ## FAQ
 
