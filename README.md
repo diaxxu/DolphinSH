@@ -101,6 +101,58 @@ i made it to be or have :
 
 the Firmware thats going to run is Inav its a lightweight program that is capable of autonomously flying the UAV to pre-programmed waypoint or loiter ( always wanted to do this imagine letting go of the transmitter and the plane continue to fly itself thats literally magic ) 
 
+---
+
+## Firmware Flashing Instructions
+
+# INAV Firmware Flashing Guide
+
+### 1. Install Required Software
+1. Download and install **INAV Configurator** from the official GitHub release page.
+2. Install the appropriate USB drivers for your flight controller (CP210x, STM32 VCP, or DFU drivers depending on the board).
+
+### 2. Connect the Flight Controller
+3. Connect the flight controller (FC) to your PC using a USB-C cable.
+4. Wait for the operating system to recognize the device.
+5. Confirm that a new COM port appears in your device manager.
+
+### 3. Enter Bootloader Mode
+6. If required, hold the **BOOT** button on the FC while plugging in the USB cable.
+7. Alternatively, use the “Reboot to Bootloader” option inside INAV Configurator (if firmware is already present).
+
+### 4. Flash Firmware
+8. Open **INAV Configurator**.
+9. Go to the **Firmware Flasher** tab.
+10. Select the correct target for your flight controller (verify the exact board name printed on the FC).
+11. Select the desired firmware version (use the latest stable release unless specific testing is required).
+12. Enable **Full chip erase** (recommended for clean installations).
+13. Click **Load Firmware Online**.
+14. Click **Flash Firmware**.
+15. Wait until flashing is complete. Do not disconnect power during this process.
+
+### 5. Initial Setup
+16. After flashing, reconnect to the FC.
+17. Apply default settings.
+18. Configure board alignment if necessary.
+19. Calibrate the accelerometer.
+20. Set up ports (UART configuration for receiver, GPS, etc.).
+21. Configure receiver protocol.
+22. Configure motor outputs and mixer type (VTOL / fixed wing as required).
+23. Set failsafe parameters.
+24. Save and reboot.
+
+### 6. Verification
+25. Confirm sensor functionality (gyro, accelerometer, barometer, GPS if installed).
+26. Verify receiver inputs respond correctly.
+27. Check motor output order and direction (remove propellers before testing).
+28. Perform a final configuration backup.
+
+attention! Firmware flashing and configuration must always be done without propellers installed to prevent accidental motor startup.
+
+
+---
+
+
 ## Schematic ( wire diagram 
 ![fc](Pics/fc.png)
 -
