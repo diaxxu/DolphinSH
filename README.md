@@ -105,8 +105,6 @@ the Firmware thats going to run is Inav its a lightweight program that is capabl
 
 ## Firmware Flashing Instructions
 
-# INAV Firmware Flashing Guide
-
 ### 1. Install Required Software
 1. Download and install **INAV Configurator** from the official GitHub release page.
 2. Install the appropriate USB drivers for your flight controller (CP210x, STM32 VCP, or DFU drivers depending on the board).
