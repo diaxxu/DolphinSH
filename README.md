@@ -232,16 +232,16 @@ Render
 |    Servo Rods       |       19cm 1.2mm       |    50      |       7.55$  |     https://a.aliexpress.com/_EJKOflA    |   
 |    Copper wire (for signal and fc)     |       10m (24awg) yellow    | 1     |       4.6$  |    [ https://a.aliexpress.com/_EzUnszi)  ](https://a.aliexpress.com/_EzUnszi)  |  
 |    Copper wire (for batteries)       |       5m (18awg) black     |   1      |       5.36$  |    [ https://a.aliexpress.com/_EJKOflA](https://a.aliexpress.com/_EztPdHO)    |   
-|    3D printing       |   2046.458g   PLA    |   1    |       150$  |     3d printing service (1g=0.11$) i will pay the rest from my pockets |  
+ 
 
 i already own 1 flightcontroller , 1 motor , 1 esc , 1 battery, 1 gps , 1 receiver and transmitter 
 
-### the TOTAL : 398.6$ 
-i tried to reduce cost as much but 3d printing literally is so expensive in morocco if i order from internationnal manufacturer i get hit with the tax and shipping cost i believe this is the cheapest choice that i have 
+### the TOTAL : 248.60$
+
 
 ## Credits
 
-A big thanks to Hackclub and Blueprint for making this possible without them, all these project would been just a .step file <p/> 
+A big thanks to Hack Club and Blueprint for making this possible without them, all these project would been just a .step file <p/> 
 also i want to thank the Reviewers who are doing an incredible job, kudos !
 
 ---
