@@ -201,7 +201,7 @@ A: Yes, iNav can handle waypoint navigation and loitering, letting the plane fly
 ![PALEN](Pics/ANA.png)
 -
 ![PALEN](Pics/FRONT.png)
-THATS SO SLICK
+
 -
 ![PALEN](Pics/SIDE.png)
 -
@@ -222,21 +222,25 @@ Render
 
 ## BoM ( secret sauce!!) 
  
-| Component | Specification | Quantity | Price  | Link    |
-|-----------|--------------|----------|---------|---------|
-| set of motor, esc and propellers        |    A2212 1000KV / 30amp esc / 23cm props         |  4        |    61.41$     |     https://a.aliexpress.com/_EJaQqYY   |
-|     FPV    |    camera with vtx and google          |    1      |  87.58$       |  https://a.aliexpress.com/_EuSo3te      |  
-|    Telemetry      |      lora LR02 ASR6601 (10km range)      |   1    |       25.62$  |     [https://a.aliexpress.com/_EJKOflA](https://a.aliexpress.com/_EJNQwhK)    |   
-|     Servo      |      sg90   (180deg)    |    10      |   15.65$      |   https://a.aliexpress.com/_EHJRpG8      | 
-|       Carbon Fiber tube    |     9x7x500mm         |    6     |    40.83$     |       https://a.aliexpress.com/_EH2rwjI  | 
-|    Servo Rods       |       19cm 1.2mm       |    50      |       7.55$  |     https://a.aliexpress.com/_EJKOflA    |   
-|    Copper wire (for signal and fc)     |       10m (24awg) yellow    | 1     |       4.6$  |    [ https://a.aliexpress.com/_EzUnszi)  ](https://a.aliexpress.com/_EzUnszi)  |  
-|    Copper wire (for batteries)       |       5m (18awg) black     |   1      |       5.36$  |    [ https://a.aliexpress.com/_EJKOflA](https://a.aliexpress.com/_EztPdHO)    |   
+| Component                         | Specification                       | Quantity | Price  | Link                                               |
+| --------------------------------- | ----------------------------------- | -------- | ------ | -------------------------------------------------- |
+| Set of motor, ESC, and propellers | A2212 1000KV / 30A ESC / 23cm props | 4        | $64.01 | [AliExpress](https://a.aliexpress.com/_EJaQqYY)    |
+| FPV                               | Camera with VTX and goggle          | 1        | $86.94 | [AliExpress](https://a.aliexpress.com/_EuSo3te)    |
+| Telemetry                         | LoRa LR02 ASR6601 (10 km range)     | 1        | $25.63 | [AliExpress](https://a.aliexpress.com/_EJNQwhK)    |
+| Servo                             | SG90 (360°)                         | 5        | $8.78  | [AliExpress](https://a.aliexpress.com/_EHJRpG8)    |
+| Carbon Fiber Tube                 | 9x7x500 mm                          | 4        | $14.55 | [AliExpress](https://a.aliexpress.com/_EH2rwjI)    |
+| Servo Rods                        | 19 cm, 1.2 mm                       | 20       | $4.85  | [AliExpress](https://a.aliexpress.com/_EJKOflA)    |
+| Copper Wire (signal & FC)         | 10 m, 26 AWG, yellow                | 1        | $3.97  | [AliExpress](https://a.aliexpress.com/_EzUnszi)    |
+| Copper Wire (batteries)           | 10 m, 16 AWG, black                 | 1        | $13.83 | [AliExpress](https://a.aliexpress.com/_EztPdHO)    |
+| Magnet                            | 3mmx1mm                             | 50       | $6.94  | [AliExpress](https://a.aliexpress.com/_EJExample)  |
+| Square tube carbon fiber          | 10x10x8.5mm 500mm                   | 2        | $16.7  | [AliExpress](https://a.aliexpress.com/_EJExample2) |
+| Dupont line (connectors)          | 10cm 3 kind                         | 120      | $5.07  | [AliExpress](https://a.aliexpress.com/_EJExample3) |
+|Printing legion                    | shipping from india to morocco      | 1        | $25    |  
  
 
 i already own 1 flightcontroller , 1 motor , 1 esc , 1 battery, 1 gps , 1 receiver and transmitter 
 
-### the TOTAL : 248.60$
+### the TOTAL : 291.11$
 
 
 ## Credits
